@@ -1,16 +1,30 @@
-## Hi there 👋
+## System.out.println("Welcome to my github!") 🥇
 
-<!--
-**LuizOliveira-star/LuizOliveira-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! My name is Luiz Henrique.
+  
+<p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.unifecaf.com.br" target="blank_">UniFecaf</a></p>
+<p>📚 Studing Back-End, Java, Spring, SQL.
+<p>🔠 <a href="https://www.ef.com.br/test/results-advanced/">C1-C2 Advanced English Level</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+ Here are some languages ​​I have knowledge/experience with 👇
+
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,typescript)](https://skillicons.dev)
+
+
+##
+
+<p>Socials
+  
+<a href = "contato3luizhenriqueoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/luizhenriqueoliveira02002" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+<hr>
+
+  Enjoy ;)
+
+  
+  ![hunterxhunter](https://github.com/user-attachments/assets/9039ca28-77bb-4c64-8961-84f544bca0ce)
