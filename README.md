@@ -1,7 +1,7 @@
 ## System.out.println("Welcome to my github!") 🥇
 
 
-Hello! My name is Luiz Henrique.
+Hello! My name is Luiz Henrique, and I am curious about everything
   
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.unifecaf.com.br" target="blank_">UniFecaf</a></p>
 <p>📚 Studing Back-End, Java, Spring, SQL.
