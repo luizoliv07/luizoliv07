@@ -25,6 +25,3 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 <hr>
 
   Enjoy ;)
-
-  
-  ![hunterxhunter](https://github.com/user-attachments/assets/9039ca28-77bb-4c64-8961-84f544bca0ce)
