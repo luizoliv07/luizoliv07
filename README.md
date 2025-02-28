@@ -23,6 +23,7 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
 <hr>
 
+![Tired Work GIF by Pudgy Penguins](https://github.com/user-attachments/assets/644cce30-8334-436f-b989-2f48c94e9bf4)
 
 
 
