@@ -23,7 +23,7 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
 <hr>
 
-![gon-smile](https://github.com/user-attachments/assets/71d5d76b-31da-47be-aab1-d29b0b4065e2)
+
 
 
   Enjoy ;)
