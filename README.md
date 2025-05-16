@@ -1,4 +1,4 @@
-## System.out.println("Welcome to my github!") 🥇
+System.out.println("Welcome to my github!") 🥇
 
 
 Hello! My name is Luiz Henrique, and I am curious about everything
