@@ -11,7 +11,7 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
  Here are some languages ​​I have knowledge/experience with 👇
 
-  [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,javascript,typescript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,javascript,typescript,html,css)](https://skillicons.dev)
 
 
 ##
