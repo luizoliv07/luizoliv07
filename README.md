@@ -9,7 +9,7 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
 ##
 
- Here are some languages ​​I have knowledge/experience with 👇
+ Here are some languages and tools ​​I have knowledge/experience with 🧰
 
   [![My Skills](https://skillicons.dev/icons?i=java,git,python,github,mysql,javascript,typescript)](https://skillicons.dev)
 
@@ -22,9 +22,5 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
 
 <hr>
-
-![Tired Work GIF by Pudgy Penguins](https://github.com/user-attachments/assets/644cce30-8334-436f-b989-2f48c94e9bf4)
-
-
 
   Enjoy ;)
