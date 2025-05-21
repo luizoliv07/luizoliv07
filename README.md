@@ -12,7 +12,7 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
  Here are some languages and tools ​​I have knowledge/experience with 🧰
 
-  [![My Skills](https://skillicons.dev/icons?i=java,git,python,github,mysql,javascript,typescript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,git,python,github,mysql,javascript,)](https://skillicons.dev)
 
 
 ##
