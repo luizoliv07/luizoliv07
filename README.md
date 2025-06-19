@@ -14,14 +14,9 @@ Hello! My name is Luiz Henrique, and I am curious about everything
 
   [![My Skills](https://skillicons.dev/icons?i=java,git,python,github,mysql,javascript,)](https://skillicons.dev)
 
-
 ##
 
 <p>Social
   
  <a href="https://www.linkedin.com/in/luizhenriqueoliveira02002" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
-<hr>
-
-  Enjoy ;)
