@@ -22,7 +22,6 @@ Hello! My name is Luiz Henrique, and I am curious about everything
   
  <a href="https://www.linkedin.com/in/luizhenriqueoliveira337" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- #
  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizoliv07/luizoliv07/output/github-contribution-grid-snake-dark.svg">
