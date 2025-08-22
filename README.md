@@ -3,8 +3,6 @@
 
 Hello! My name is Luiz Henrique, and I am curious about everything
 
-<img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndydmRlMmE0am5kaTJqcTJkMGF6anhwYWJjc2RmM2NzZTZmbmQzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3BBv1D4AFbJkY/giphy.gif"/>
-  
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.unifecaf.com.br" target="blank_">UniFecaf</a></p>
 <p>📚 Studing BackEnd, Java, Spring, AWS.
 <p>🔠 <a href="https://www.ef.com.br/test/results-advanced/">C1-C2 Advanced English Level</a></p>
