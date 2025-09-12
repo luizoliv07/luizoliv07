@@ -8,7 +8,7 @@
 
  Languages and Tools ​ 🧰
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,git,python,mysql,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,git,python,mysql,aws,)](https://skillicons.dev)
 
 ##
 
